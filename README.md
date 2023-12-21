@@ -45,3 +45,4 @@ prisma
 planet scale
 ngrok
 svix
+zustand
